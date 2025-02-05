@@ -1,0 +1,5 @@
+---
+title: "MY-BLOG-TITLE"
+date: 2025-02-04
+This is a draft of the first blog post.
+---
